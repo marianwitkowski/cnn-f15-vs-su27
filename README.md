@@ -3,7 +3,7 @@
 Prosta konwolucyjna sieć neuronowa z zastosowaniem augmentacji do rozpoznawania samolotów F15 Eagle i SU-27
 
 <ul>
-  <li><a href='aircraft_cnn.ipynb'>Kod w JupyterNotebbok</a>
+  <li><a href='aircraft_cnn.ipynb'>Kod w JupyterNoteboook</a>
 </ul>
 
 <b>Dokładność w funkcji epok</b><br/>
