@@ -7,4 +7,4 @@ Prosta konwolucyjna sieć neuronowa z zastosowaniem augmentacji do rozpoznawania
 </ul>
 
 <b>Dokładność w funkcji epok</b><br/>
-<img src='plot.png' width="1024" />
+<img src='plot.png' width="100%" />
