@@ -4,6 +4,8 @@ Prosta konwolucyjna sieć neuronowa z zastosowaniem augmentacji do rozpoznawania
 
 <ul>
   <li><a href='aircraft_cnn.ipynb'>Kod w JupyterNoteboook</a>
+      <li><a href='colab-data.zip'>Grafiki podzielone na zbiór treningowy i walidacyjny</a>
+
 </ul>
 
 <b>Dokładność w funkcji epok</b><br/>
