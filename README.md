@@ -10,7 +10,7 @@
   </table>
 </center>
 
-Prosta konwolucyjna sieć neuronowa z zastosowaniem augmentacji do rozpoznawania samolotów F15 Eagle i SU-27
+Prosta konwolucyjna sieć neuronowa napisana z wykorzystaniem biblioteki <b>Keras</b> do rozpoznawania samolotów F15 Eagle i SU-27
 
 <ul>
   <li><a href='aircraft_cnn.ipynb'>Kod w JupyterNoteboook</a>
