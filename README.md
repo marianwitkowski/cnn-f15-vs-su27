@@ -1,1 +1,1 @@
-# cnn-f15-vs-su27
+### Konwolucyjna sieć neuronowa do rozpoznawania samolotów F15 Eagle i SU-27
